@@ -1,3 +1,10 @@
-# hello-world
+/* hello-world
 first edit
-hello
+hello*/
+
+#include<iostream>
+using namespace std;
+  
+int main(){
+  cout<<"Hello World";
+  }
